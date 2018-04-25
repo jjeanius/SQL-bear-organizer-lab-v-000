@@ -28,5 +28,5 @@ end
 
 def selects_bear_that_killed_Tim
 
-  "SELECT name FROM bears WHERE temperament = 'aggressive';" #Write your SQL query here"
+  "SELECT * FROM bears WHERE temperament = 'aggressive';" #Write your SQL query here"
 end
